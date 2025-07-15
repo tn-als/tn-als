@@ -18,8 +18,8 @@
 • 💻 <b>Kyonggi University SW Bootcamp</b> (2024.01 ~ 2024.11)  
 &nbsp;&nbsp;&nbsp;&nbsp;→ CS의 전반적인 지식 공부 후 팀프로젝트를 통해 K-Softvation에서 최우수상 수상
 
-• 🚀 <b>NAVER Boostcamp 10th</b> (2025.06 ~ )  
-&nbsp;&nbsp;&nbsp;&nbsp;→ 실무 중심 소프트웨어 교육 과정 참여 중
+• 🚀 <b>NAVER Boostcamp 10th Basic</b> (2025.06 ~ 07)  
+&nbsp;&nbsp;&nbsp;&nbsp;→ 안드로이드 파트에서의 문제 해결 사고력을 공부함
 
 </p>
 
@@ -97,7 +97,7 @@
       <td>부모님과 떠나는 추억 여행 어플리케이션</td>
     </tr>
     <tr>
-      <td>2025.05 ~ </td>
+      <td>2025.05 ~ 2025.07</td>
       <td>🌍 바름</td>
       <td>한국에 체류하는 외국인을 위한 종합 도움 어플리케이션</td>
     </tr>
