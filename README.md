@@ -19,7 +19,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;→ CS의 전반적인 지식 공부 후 팀프로젝트를 통해 K-Softvation에서 최우수상 수상
 
 • 🚀 <b>NAVER Boostcamp 10th Basic</b> (2025.06 ~ 07)  
-&nbsp;&nbsp;&nbsp;&nbsp;→ 안드로이드 파트에서의 문제 해결 사고력을 공부함
+&nbsp;&nbsp;&nbsp;&nbsp;→ 안드로이드 파트에서의 문제 해결 사고력 공부
+
+• ☁ <b>KAKAOTECH BOOTCAMP 클라우드 과정 3기 </b> (2025.09 ~ 2026.03)
+&nbsp;&nbsp;&nbsp;&nbsp;→ AWS 인프라 기초를 학습하고 팀 프로젝트와 해커톤을 통해 클라우드 기반 서비스 운영 경험 학습
 
 </p>
 
@@ -92,7 +95,17 @@
   </thead>
   <tbody>
     <tr>
-      <td>2025.06 ~ </td>
+      <td>2026.03 ~ </td>
+      <td>💬 살랑 </td>
+      <td>AI 캐릭터와의 채팅 웹앱</td>
+    </tr>
+    <tr>
+      <td>2025.12 ~ 2026.03</td>
+      <td>🍗 다모 </td>
+      <td>개인 맞춤 회식 장소 추천 웹앱</td>
+    </tr>    
+    <tr>
+      <td>2025.06 ~ 2025.09</td>
       <td>👪 효심로드</td>
       <td>부모님과 떠나는 추억 여행 어플리케이션</td>
     </tr>
@@ -131,11 +144,12 @@
 <h2 align="left">✨ Tech Stack ✨</h2>
 <h4 align="left">🎈 Most Use</h4>
 <div align="left">
-  <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/android auto-3DDC84.svg?style=for-the-badge&logo=androidauto&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/xml-005FAD.svg?style=for-the-badge&logo=xml&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />&nbsp
 </div>
 
 <h4 align="left">📓 Less Use </h4>
@@ -170,8 +184,6 @@
 <h2 align="left"> ⏲️ Work Stats</h2>
 <div align="left">
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tn-als&show_icons=true&include_all_commits=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tn-als&layout=compact&theme=radical">
   <a href="https://www.acmicpc.net/user/kuming22" target="_blank">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kuming22" alt="Solved.ac 프로필">
   </a>
@@ -189,10 +201,6 @@
     <img
       src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-  </a>
-  <a href="https://blog.naver.com/lily-_-blue">
-    <img
-      src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
   <a href="https://www.instagram.com/kku9v9min/">
     <img
